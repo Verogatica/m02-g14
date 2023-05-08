@@ -3,3 +3,4 @@
 - VERONICA GATICA
 - MILI 
 - PAU
+- Ari (ari escribio esto)
